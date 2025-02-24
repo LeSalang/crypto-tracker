@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="error_no_internet_connection">No internet connection. Please check your network settings and try again.</string>
+    <string name="error_request_timeout">The request took too long. Please check your connection and try again.</string>
+    <string name="error_serialization_error">Oops! Something went wrong while processing your data. Please try again later.</string>
+    <string name="error_server_error">We\'re having trouble connecting to the server. Please try again later.</string>
+    <string name="error_too_many_requests">You\'ve made too many requests. Please wait a moment and try again.</string>
+    <string name="error_unknown_error">Something went wrong. Please try again later.</string>
+    <string name="market_cap">Market cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24h">Change last 24h</string>
+</resources>
